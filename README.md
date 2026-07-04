@@ -70,27 +70,6 @@ This repository contains all the work completed during my internship, including 
 
 ---
 
-## 📂 Repository Structure
-
-```
-Summer-Internship-Training-Data-Science-2026
-│
-├── Daily-Work
-├── Python
-├── Advanced-Python
-├── Power-BI
-├── Machine-Learning
-├── Deep-Learning
-├── NLP
-├── Assignments
-├── Projects
-├── Datasets
-├── Notes
-└── Certificates
-```
-
----
-
 ## 🎯 Goal
 
 The objective of this repository is to document my complete learning journey throughout the internship and maintain all resources in a structured and organized manner.
