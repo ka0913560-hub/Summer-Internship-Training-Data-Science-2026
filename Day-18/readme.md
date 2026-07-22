@@ -1,4 +1,4 @@
-# ☁️ Day-12: Introduction to Cloud Computing & AWS S3
+# ☁️ Day-18: Introduction to Cloud Computing & AWS S3
 
 ## 🎯 Objective
 
